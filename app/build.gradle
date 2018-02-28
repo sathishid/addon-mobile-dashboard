@@ -28,5 +28,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
     compile 'com.google.code.gson:gson:2.8.2'
+    compile 'com.google.android.gms:play-services-ads:8.1.0'
 
 }
